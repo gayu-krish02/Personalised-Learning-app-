@@ -1,0 +1,46 @@
+{
+  "topics_studied": [
+    "quantum mechanics",
+    "Quantum Mechanics",
+    "food",
+    "ML"
+  ],
+  "scores": [
+    60,
+    60,
+    60,
+    60,
+    20
+  ],
+  "best_score": 60,
+  "topic_scores": {
+    "Quantum Mechanics": 60
+  },
+  "sessions": [
+    {
+      "topic": "Quantum Mechanics",
+      "score": 60,
+      "date": "2026-04-22"
+    },
+    {
+      "topic": "Quantum Mechanics",
+      "score": 60,
+      "date": "2026-04-22"
+    },
+    {
+      "topic": "Quantum Mechanics",
+      "score": 60,
+      "date": "2026-04-22"
+    },
+    {
+      "topic": "Quantum Mechanics",
+      "score": 60,
+      "date": "2026-04-22"
+    },
+    {
+      "topic": "Quantum Mechanics",
+      "score": 20,
+      "date": "2026-04-22"
+    }
+  ]
+}
